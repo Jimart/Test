@@ -1,0 +1,3 @@
+/home/usuario/EJEMPLO}/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/EJEMPLO}/build/CMakeFiles/edit_cache.dir
+/home/usuario/EJEMPLO}/build/CMakeFiles/hello.dir
